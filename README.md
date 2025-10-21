@@ -61,6 +61,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBKOROA&layout=compact&theme=radical" alt="Top Languages" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=DoH100&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ---
