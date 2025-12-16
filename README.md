@@ -55,13 +55,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VBKOROA&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VBKOROA&theme=radical" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBKOROA&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=VBKOROA&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
+<img src="https://gh-stats-gen.vercel.app/api?username=VBKOROA&theme=radical&show_icons=true" />
 </div>
 
 ---
