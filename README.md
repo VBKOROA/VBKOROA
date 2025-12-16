@@ -51,15 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://gh-stats-gen.vercel.app/api?username=VBKOROA&theme=radical&show_icons=true" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 [![VBKOROA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VBKOROA&theme=react-dark)](https://github.com/VBKOROA/github-readme-activity-graph)
