@@ -27,9 +27,9 @@
 <p>
   <!-- 여기에 프레임워크 배지들을 추가하세요 -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
   <!-- 더 많은 배지들... -->
 </p>
 
@@ -37,6 +37,7 @@
 <p>
   <!-- 여기에 데이터베이스 배지들을 추가하세요 -->
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <!-- 더 많은 배지들... -->
 </p>
 
@@ -51,17 +52,27 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![VBKOROA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VBKOROA&theme=react-dark)](https://github.com/VBKOROA/github-readme-activity-graph)
-
----
+## 📊 GitHub Insights
 
 <div align="center">
 
-### 👀 Profile Views
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=VBKOROA&theme=github-compact&radius=10" alt="GitHub Activity Graph"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=VBKOROA&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBKOROA&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VBKOROA&color=brightgreen&style=flat-square)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=VBKOROA&color=0E9CFF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
